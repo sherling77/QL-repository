@@ -1,2 +1,2 @@
 # QL-repository
-some work
+practice to create a repository
